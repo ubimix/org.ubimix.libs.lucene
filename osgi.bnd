@@ -2,5 +2,5 @@
 # Use this file to add customized Bnd instructions for the bundle
 #-----------------------------------------------------------------
 Import-Package: *;resolution:=optional
-Export-Package: org.apache.lucene.*;version="3.2.0"
+Export-Package: org.apache.lucene.*;version="3.3.0"
 Include-Resource: {maven-resources}
